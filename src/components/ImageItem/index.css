@@ -1,0 +1,22 @@
+/* Write your code here. */
+.list-items {
+    display: flex;
+    margin-right: 14px;
+    margin-bottom: 14px;
+  }
+  
+  button {
+    background-color: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+  }
+  
+  .thumbnail {
+    opacity: 0.5;
+  }
+  
+  .active {
+    opacity: 1;
+  }
+  
